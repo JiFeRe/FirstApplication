@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "597276805134",
+    "firebase_url": "https://ticktalk-24e7a.firebaseio.com",
+    "project_id": "ticktalk-24e7a",
+    "storage_bucket": "ticktalk-24e7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597276805134:android:51c29d01d91f51f2",
+        "android_client_info": {
+          "package_name": "com.example.renjf.firstapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597276805134-ahfu36nrs7pjqaae9gplg9u8155993c2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.renjf.firstapplication",
+            "certificate_hash": "060e6e8658cfa0ed4d27561756f175fe1afb694a"
+          }
+        },
+        {
+          "client_id": "597276805134-lrh5a4mp04v909jb0nva0a9ljmakfjlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyLMnIq6xXCYiMyyvKM5LqOHqjadLAm10"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597276805134-lrh5a4mp04v909jb0nva0a9ljmakfjlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
